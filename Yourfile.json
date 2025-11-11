@@ -9,6 +9,6 @@
         "device_id": "d903edbb36dda250",
         "key": "12",
         "expirydate": "10-11-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
